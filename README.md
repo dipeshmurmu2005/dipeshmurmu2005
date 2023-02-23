@@ -29,3 +29,5 @@ I am a Web Designer and YouTuber. I am passionate about Web Technologies Web Des
 #### +2 With Science & Computer Science at St.Xavier's Deonia Jhapa Nepal
 ## Contact
 ##### Facebook [Visit Profile](https://www.facebook.com/deepeshmurmu)
+##### Instagram [Visit Profile](https://www.instagram.com/dipeshmurmu2005/)
+##### YouTube [Visit Channel](https://www.youtube.com/channel/UCwIvGliCk2KecX9tdFbV82Q)
