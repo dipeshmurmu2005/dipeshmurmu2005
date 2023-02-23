@@ -18,3 +18,13 @@ I am a Web Designer and YouTuber. I am passionate about Web Technologies Web Des
 * Laravel PHP
 * Tailwind CSS
 * Bootstrap
+* Adobe Photoshop
+* Adobe Lightroom
+* Adobe Premiere Pro
+* Wondershare Filmora
+## Experience
+* 4 Years plus Experience in Web Development.
+* 3 Years plus Experience in Video Editing and Graphics Designing.
+## Education
+#### +2 With Science & Computer Science at St.Xavier's Deonia Jhapa Nepal
+## Contact
