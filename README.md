@@ -5,16 +5,16 @@ Web Designer
 ## About Me
 I am a Web Designer and YouTuber. I am passionate about Web Technologies Web Designing, Server Side Scripting , and have 4+ of experience working in Web Development.
 ## Skills
-#### Advance Researching
-#### Git
-#### UI&UX
-#### HTML
-#### CSS
-#### PHP
-#### Javascript
-#### Node.js
-#### React
-#### Python
-#### Laravel PHP
-#### Tailwind CSS
-#### Bootstrap
+* Advance Researching
+* Git
+* UI&UX
+* HTML
+* CSS
+* PHP
+* Javascript
+* Node.js
+* React
+* Python
+* Laravel PHP
+* Tailwind CSS
+* Bootstrap
