@@ -1,4 +1,4 @@
 ### Hi there 👋
-### Dipesh Murmu
-## Web Designer
-## CyperCoder {.dev}
+## Dipesh Murmu
+### Web Designer
+### CyperCoder {.dev}
