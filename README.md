@@ -1,9 +1,9 @@
 ### Hi there 👋
 ## Dipesh Murmu
-Web Designer
+Junior Fullstack Developer
 --> CyperCoder {.dev}
 ## About Me
-I am a Junior Full Stack Developer. I am passionate about Web Technologies Web Designing, Server Side Scripting , and have 4+ of experience working in Web Development.
+I am a Junior Fullstack Developer. I am passionate about Web Technologies Web Designing, Server Side Scripting , and have 4+ of experience working in Web Development.
 ## Skills
 * Advance Researching
 * Git
