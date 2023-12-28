@@ -23,6 +23,7 @@ I am a Junior Fullstack Developer. I am passionate about Web Technologies Web De
 * 4 Years plus Experience in Web Development.
 * 3 Years plus Experience in Video Editing and Graphics Designing.
 ## Education
+#### BCA in Mechi Multiple Campus
 #### +2 With Science & Computer Science at St.Xavier's Deonia Jhapa Nepal
 ## Contact
 ##### Facebook [Visit Profile](https://www.facebook.com/deepeshmurmu)
