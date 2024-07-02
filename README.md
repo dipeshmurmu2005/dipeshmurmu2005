@@ -47,6 +47,8 @@
             src="https://cdn.iconscout.com/icon/premium/png-256-thumb/javascript-2752148-2284965.png?f=webp&w=256" alt="" height="30" width="40"></a>
     <a href="https://www.php.net/" target="_blank"><img align="center"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" alt="" height="30" width="40"></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img align="center"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Support:</h3>
