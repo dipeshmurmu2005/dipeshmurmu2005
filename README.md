@@ -17,7 +17,7 @@ I am a Tall Stack Developer. I am passionate about Web Technologies Web Designin
 * PHP
 * Advance Researching
 
-![Coding](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Coding" width="200" height="200">
 
 ## Education
 #### BCA in Mechi Multiple Campus
