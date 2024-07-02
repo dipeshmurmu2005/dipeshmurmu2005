@@ -16,10 +16,7 @@ I am a Junior Fullstack Developer. I am passionate about Web Technologies Web De
 * Livewire
 * Tailwind CSS
 * Bootstrap
-* Adobe Photoshop
-* Adobe Lightroom
-* Adobe Premiere Pro
-* Wondershare Filmora
+
 ## Experience
 * 4 Years plus Experience in Web Development.
 * 3 Years plus Experience in Video Editing and Graphics Designing.
