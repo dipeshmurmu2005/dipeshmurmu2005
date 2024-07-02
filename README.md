@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Dipesh Murmu
 Tall Stack Developer
---> CyperCoder {.dev}
+
 ## About Me
 I am a Tall Stack Developer. I am passionate about Web Technologies Web Designing, Server Side Scripting , and have best of experience working in Web Development.
 
