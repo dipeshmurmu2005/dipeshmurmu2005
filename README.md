@@ -13,6 +13,7 @@ I am a Junior Fullstack Developer. I am passionate about Web Technologies Web De
 * PHP
 * Javascript
 * Laravel PHP
+* Livewire
 * Tailwind CSS
 * Bootstrap
 * Adobe Photoshop
