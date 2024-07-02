@@ -1,28 +1,28 @@
 ### Hi there 👋
 ## Dipesh Murmu
-Junior Fullstack Developer
+Tall Stack Developer
 --> CyperCoder {.dev}
 ## About Me
-I am a Junior Fullstack Developer. I am passionate about Web Technologies Web Designing, Server Side Scripting , and have 4+ of experience working in Web Development.
+I am a Tall Stack Developer. I am passionate about Web Technologies Web Designing, Server Side Scripting , and have best of experience working in Web Development.
+
 ## Skills
-* Advance Researching
-* Git
-* UI&UX
-* HTML
-* CSS
-* PHP
-* Javascript
 * Laravel PHP
 * Livewire
+* Vanilla Javascript
+* Alpine Js
+* Git
 * Tailwind CSS
 * Bootstrap
+* CSS
+* PHP
+* Advance Researching
 
-## Experience
-* 4 Years plus Experience in Web Development.
-* 3 Years plus Experience in Video Editing and Graphics Designing.
+![Coding](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
+
 ## Education
 #### BCA in Mechi Multiple Campus
 #### +2 With Science & Computer Science at St.Xavier's Deonia Jhapa Nepal
+
 ## Contact
 ##### Facebook [Visit Profile](https://www.facebook.com/deepeshmurmu)
 ##### Instagram [Visit Profile](https://www.instagram.com/dipeshmurmu2005/)
