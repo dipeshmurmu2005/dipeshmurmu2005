@@ -19,10 +19,6 @@
 
 - ⚡ Fun fact **I breath code.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dipeshmurmu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dipeshmurmu" height="30" width="40" /></a>
@@ -53,7 +49,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dipeshmurm6"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dipeshmurm6" /></a></p><br><br>
-<br>
-<br>
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=dipeshmurmu2005" alt="dipeshmurmu2005" /></p>
     
