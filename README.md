@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Livewire**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dipeshmurmu2005](https://github.com/dipeshmurmu2005)
+- 👨‍💻 All of my projects are available at [https://github.com/dipeshmurmu2005](https://dipeshmurmu.com.np)
 
-- 📝 I regularly write articles on [https://medium.com/@dipeshmurmu](https://medium.com/@dipeshmurmu)
+- 📝 I regularly write articles on [https://medium.com/@dipeshmurmu](https://dipeshmurmu.com.np/blogs)
 
 - 💬 Ask me about **Laravel,Javascript,Alpine Js, Livewire**
 
