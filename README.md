@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipeshmurmu2005&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshmurmu2005" /> </p>
 
-- 🔭 I’m currently working on [QwikJobs](https://github.com/dipeshmurmu2005/qwikjobs)
-
-- 🌱 I’m currently learning **Livewire**
-
 - 👨‍💻 All of my projects are available at [https://dipeshmurmu.com.np](https://dipeshmurmu.com.np)
 
 - 📝 I regularly write articles on [https://dipeshmurmu.com.np/blogs](https://dipeshmurmu.com.np/blogs)
